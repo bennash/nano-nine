@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana Studio",
+  "description": "Upload an image and generate 9 unique angular variations using the Gemini 2.5 Flash Image model. Includes AI-powered editing capabilities.",
+  "requestFramePermissions": []
+}
